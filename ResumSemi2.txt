@@ -4,6 +4,8 @@ corresponent. Per si de cas també introdueixo en el repositori algun arxiu .mp4
 
 
 Important: Quan en el script per pantalla surt el missatge de: Introduir directorio etc...
-posar-lo sense espai \home\scav\Escritorio... es el que utilitzava jo per exemple en la meva VM 
+posar-lo sense espai \home\scav\Escritorio... es el que utilitzava jo per exemple en la meva VM.
+
+Entenc que com que en el script ja hi han les comandes que he utilitzat prèviament al fer els exercicis per terminal, no fa falta que et pugi captura de les mateixes linies de comanda per terminal
 
 Res més :)
