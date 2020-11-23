@@ -1,0 +1,9 @@
+En aquest seminari, l'arxiu adjunt main.py té el script amb tots els exercicis 
+junts. He creat un petit menú interectiu amb PyCharm per tal que l'usuari executi l'exercici
+corresponent. Per si de cas també introdueixo en el repositori algun arxiu .mp4 dels que he anat fent en els exercicis per terminal abans de posar-ho tot en un script.
+
+
+Important: Quan en el script per pantalla surt el missatge de: Introduir directorio etc...
+posar-lo sense espai \home\scav\Escritorio... es el que utilitzava jo per exemple en la meva VM 
+
+Res més :)
