@@ -41,7 +41,7 @@ if __name__ == '__main__':
                 print("Opción no válida");
 
 
-        #os.system("ffmpeg -ss 00:01:00.0 -i /home/scav/Escritorio/bbb.mp4 -c copy -t 00:00:05.0 /home/scav/Escritorio/123.mp4")
+        
 
 
         # See PyCharm help at https://www.jetbrains.com/help/pycharm/
